@@ -1,0 +1,7 @@
+data/
+*.sqlite*
+node_modules/
+.env
+.env.*
+!.env.example
+test-artifacts/
