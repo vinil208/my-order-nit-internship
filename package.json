@@ -1,0 +1,16 @@
+{
+  "name": "my-order",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js",
+    "seed": "node seed.js",
+    "benchmark": "node benchmark.js",
+    "test:browser": "node test/browser.mjs"
+  }
+}

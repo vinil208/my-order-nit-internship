@@ -1,0 +1,44 @@
+# Files changed by the upgrade
+
+Comparison against the pre-upgrade commit `dd2ddf5`. The original source files and UI were retained; no live database was included.
+
+- `.env.example`
+- `.gitignore`
+- `API_DOCUMENTATION.md`
+- `BENCHMARK_RESULTS.md`
+- `DESIGN_NOTE.md`
+- `Dockerfile`
+- `README.md`
+- `TEST_REPORT.md`
+- `accounting.js`
+- `batches.js`
+- `benchmark.js`
+- `docs/ARCHITECTURE.md`
+- `docs/CHANGED_FILES.md`
+- `docs/DEMO.md`
+- `docs/DEPLOYMENT.md`
+- `docs/DESIGN.md`
+- `docs/DESIGN.pdf`
+- `docs/INTERVIEW.md`
+- `docs/SUBMISSION.md`
+- `docs/TEST_REPORT.md`
+- `docs/UPGRADE_ANALYSIS.md`
+- `docs/UPGRADE_REVIEW.md`
+- `docs/benchmark-results.json`
+- `docs/browser-verification.json`
+- `docs/screenshots/offline-mobile.png`
+- `docs/screenshots/planner.png`
+- `docs/screenshots/reconciliation.png`
+- `domain.js`
+- `migrations.js`
+- `package.json`
+- `planning.js`
+- `public/app.js`
+- `public/styles.css`
+- `public/sw.js`
+- `reporting.js`
+- `server.js`
+- `test/batches.test.js`
+- `test/browser.mjs`
+- `test/upgrade.test.js`
+- `test/writer-worker.mjs`

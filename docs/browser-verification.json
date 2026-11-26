@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "pageErrors": [],
+  "checks": [
+    "settings",
+    "split-backorder",
+    "schedule-approval",
+    "planned-production",
+    "invoice-dispatch",
+    "payment-credit-return-refund",
+    "adjustment-reversal",
+    "reconciliation",
+    "dashboard",
+    "7 reports CSV/PDF",
+    "390px offline order reconnect",
+    "accountant permissions",
+    "auditor read-only"
+  ]
+}
